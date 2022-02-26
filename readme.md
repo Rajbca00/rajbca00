@@ -31,8 +31,7 @@ __Check out my GitHub repository:__
     <a href="https://github.com/rajbca00/UiPath-Zoom-Integration">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajbca00&repo=UiPath-Zoom-Integration" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/rajbca00/
-UiPath_Multi_Browser_Automation ">
+    <a href="https://github.com/rajbca00/UiPath_Multi_Browser_Automation ">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajbca00&repo=
 UiPath_Multi_Browser_Automation " alt="GitHub Stats" />
     </a>
