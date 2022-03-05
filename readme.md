@@ -44,8 +44,8 @@ __Check out my GitHub repository:__
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajbca00" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rajbca00" alt="WakaTime" />
+  <b><em>Programming activity (Last 7 days):</em></b> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbca00&layout=compact">
   </p>
 </div>
 
@@ -54,9 +54,6 @@ __Check out my GitHub repository:__
 
 I'm a Graduate Student living in Chennai, India. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
  
-<!-- - Check out my Blog: [https://laxmena.com](https://laxmena.com)
-- Know more about me: [About Laxmena](https://laxmena.com/pages/about)
-- Write to me: [ConnectWith@laxmena.com](mailto:ConnectWith@laxmena.com) -->
 
 <h2>📫 How to reach me:</h2>
 
