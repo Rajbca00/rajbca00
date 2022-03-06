@@ -12,6 +12,7 @@ I'm Rajesh Samasivam!
 <h2>💻 I'm Currently Learning</h2>
 
 __SRM Online University (Masters in Computer Application)__
+- Full stack development
 - IT Infrastructure Management
 - Python Programming
 - Data Analysis using R
@@ -24,7 +25,7 @@ __SRM Online University (Masters in Computer Application)__
 
 Now working as Lead Engineer(Sr. Automation Developer - UiPath) at [HCL Technologies](https://www.hcltech.com/), I build RPA solutions and automations for various domains like Telecom, Finance and Insurance.
 
-__Check out my GitHub repository:__
+__Check out my RPA projects:__
 
 <div>
   <p>
@@ -33,6 +34,19 @@ __Check out my GitHub repository:__
     </a>
     <a href="https://github.com/rajbca00/UiPath_Multi_Browser_Automation ">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajbca00&repo=UiPath_Multi_Browser_Automation" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+
+__Check out my Frontend projects:__
+
+<div>
+  <p>
+    <a href="https://github.com/rajbca00/advice-generator-app-main">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajbca00&repo=advice-generator-app-main" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/rajbca00/FAQ-accordion-card ">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajbca00&repo=FAQ-accordion-card" alt="GitHub Stats" />
     </a>
   </p>
 </div>
