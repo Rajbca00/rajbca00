@@ -65,11 +65,6 @@ __Check out my Frontend projects:__
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbca00&layout=compact">
   </p>
 </div>
-
-
-<h2> About Rajesh⚡:</h2>
-
-I'm a Graduate Student living in Chennai, India. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
  
 
 <h2>📫 How to reach me: </h2>
