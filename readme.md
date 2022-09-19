@@ -1,5 +1,6 @@
 <h2 align='center'>Rajesh Sambasivam</h2>
 <p align='center'><b>Lead Engineer in HCL Technologies</b></p>
+<img src="![image](https://user-images.githubusercontent.com/25570103/190938722-4a021255-653a-4d60-87e9-3a9bc3900f90.png)">
 
 <h2>Hey! 👋</h2>
 
